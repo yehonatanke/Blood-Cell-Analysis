@@ -35,6 +35,8 @@ Transfer learning with robust architectures like ResNet18 and ViT proved superio
 
 ## Core Project Structure
 
+This system employs various deep learning architectures to enhance diagnostic accuracy.
+
 #### `/src/main.py`
 Entry point that coordinates all components of the blood cell classification system.
 
